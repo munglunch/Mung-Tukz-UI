@@ -1,0 +1,12 @@
+To Do:
+1. Add more class-specific options similar to the IF and VE warnings.
+2. Allow the chat windows to be moved
+3. Change the data-statusbars to allow for mobility 
+4. Add more informative statusbars to the collection as options.
+	-4a-Regent counters
+	-4b-soulstone/ammo counters (not sure though since these will be obsolete in cata)
+	-4c-Statusbar showing incoming debuff urgency
+5. SinnisterrUI :)
+6. Minimap addon toggles need to be honed.
+7. Re-anchor QBar (I hate its current location)
+8. Skada is extremely restricted, I need to come up with another scheme.
